@@ -23,3 +23,6 @@ const newString = "    Prince zozo     "
 console.log(newString); // normal output
 console.log(newString.trim()); // trimmed output
 
+// Covert String To Array :
+let Nstate = "Kerala";
+console.log(Nstate.split());
